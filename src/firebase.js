@@ -51,4 +51,10 @@ const logout = () => {
   signOut(auth);
   };
 
+    
+  
+  // Get the current user
+  
+
+
 export { auth, login, logout, signup, db };
